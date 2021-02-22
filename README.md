@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" src="web/.github/images/moveit-banner.svg" width="100%" />
+    <img alt="Move.it" src=".github/moveit.png"/>
 </h1>
 
 <p align="center">
@@ -16,12 +16,15 @@
 ## 🔖 Sobre
 
 <p align="justify">
-O **Move.it** é uma aplicação que utiliza como inspiração a técnica de pomodoro, unindo esta técnica com exercícios... Além disto, foi implementado uma gamificação com níveis de acordo com a conclusão dos desafios.  Um estudo desenvolvido durante a NextLevelWeek 4 com aprofundamento no React 💜
+O <b>Move.it</b> é uma aplicação inspirada na técnica de pomodoro + gamificação. Com o intuito de promover ergonomia e também diversão, ao concluir os desafios você ganha experiência e sobe de nível.
+
+Um estudo desenvolvido durante a NextLevelWeek 4 com aprofundamento no React 💜
+
 </p>
 
 ## 🖥️ Interface
 
-Layouts do projeto disponíveis nos links. Para acessar, crie uma conta no [Figma](http://figma.com/).
+Layouts do projeto disponível no [Figma](http://figma.com/).
 
 - [Layout](https://www.figma.com/file/g7UTyvCNMAGns43nLGFqlo/Move.it-1.0?node-id=160%3A2761)
 
