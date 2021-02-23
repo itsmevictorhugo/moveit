@@ -31,10 +31,11 @@ Layouts do projeto disponível no [Figma](http://figma.com/).
 ## 🚀 Tecnologias
 
 - [Typescript](https://www.typescriptlang.org/)
+- [ReactJS](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Npm](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
-- [ReactJS](https://reactjs.org/)
 
 ## 📝 Licença
 
