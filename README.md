@@ -41,7 +41,7 @@ Para conseguir acessar, basta criar uma conta.
 
 ## 📝 Licença
 
-Esse projeto possui a licença MIT. Veja no arquivo [LICENSE](LICENSE.md) para mais informações.
+Esse projeto possui a licença MIT. Veja no arquivo [LICENSE](LICENSE) para mais informações.
 
 ## 🔍 Feedback
 
